@@ -21,5 +21,7 @@ I will classify each topic in a different file and share it. Thus, instead of a 
 
 I hope it will be a useful project for you.
 
+<a href="https://linkedin.com/in/batuhan karahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhan karahan" height="30" width="40" /></a>
+
  To view my other projects:
  [All Projects](https://github.com/hzmusician?tab=repositories).
